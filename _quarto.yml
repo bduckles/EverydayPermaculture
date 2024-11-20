@@ -1,10 +1,10 @@
 project:
   type: website
   output-dir: docs
-  
-author:
-  name: "Beth M. Duckles"
-  email: "beth@duckles.com"
+
+# author:
+#  name: "Beth M. Duckles"
+#  email: "beth@duckles.com"
 
 website:
   title: "Permaculture Principles in Everyday Life"
@@ -14,37 +14,40 @@ website:
         text: Home
       - href: about.qmd
         text: About
+  body-footer: |
+      <p style="margin-top: 40px; padding-top: 10px;">Written by <strong>Beth M. Duckles</strong>. Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. 
+      <a href="mailto:beth@duckles.com">Contact me</a>.</p>  
 
   sidebar:
     style: "docked"
     search: true
     contents:
-    - text: "Principles"
-      contents:
-        - href: 01-ObserveInteract.qmd
-          text: "1) Observe and Interact"
-        - href: 02-Energy.qmd
-          text: "2) Catch and Store Energy"
-        - href: 03-Yield.qmd
-          text: "3) Obtain a Yield"
-        - href: 04-SelfRegulate.qmd
-          text: "4) Apply Self-Regulation and Accept Feedback"
-        - href: 05-RenewableResources.qmd
-          text: "5) Use and Value Renewable Resources and Services"
-        - href: 06-NoWaste.qmd
-          text: "6) Produce No Waste"
-        - href: 07-Patterns.qmd
-          text: "7) Design from Patterns to Details"
-        - href: 08-Integrate.qmd
-          text: "8) Integrate Rather than Segregate"
-        - href: 09-SmallSlow.qmd
-          text: "9) Use Small and Slow Solutions"
-        - href: 10-Diversity.qmd
-          text: "10) Use and Value Diversity"
-        - href: 11-Marginal.qmd
-          text: "11) Use Edges and Value the Marginal"
-        - href: 12-Change.qmd
-          text: "12) Creatively Use and Respond to Change"
+      - text: "Principles"
+        contents:
+          - href: 01-ObserveInteract.qmd
+            text: "1) Observe and Interact"
+          - href: 02-Energy.qmd
+            text: "2) Catch and Store Energy"
+          - href: 03-Yield.qmd
+            text: "3) Obtain a Yield"
+          - href: 04-SelfRegulate.qmd
+            text: "4) Apply Self-Regulation and Accept Feedback"
+          - href: 05-RenewableResources.qmd
+            text: "5) Use and Value Renewable Resources and Services"
+          - href: 06-NoWaste.qmd
+            text: "6) Produce No Waste"
+          - href: 07-Patterns.qmd
+            text: "7) Design from Patterns to Details"
+          - href: 08-Integrate.qmd
+            text: "8) Integrate Rather than Segregate"
+          - href: 09-SmallSlow.qmd
+            text: "9) Use Small and Slow Solutions"
+          - href: 10-Diversity.qmd
+            text: "10) Use and Value Diversity"
+          - href: 11-Marginal.qmd
+            text: "11) Use Edges and Value the Marginal"
+          - href: 12-Change.qmd
+            text: "12) Creatively Use and Respond to Change"
 
 format:
   html:
@@ -52,6 +55,8 @@ format:
     css: styles.css
     toc: true
     sidebar: true  # Explicitly enable sidebar layout here
+    title-block:
+      author: false  # Add this line to suppress author in header
 
 editor: visual
 

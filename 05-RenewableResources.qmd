@@ -5,13 +5,21 @@ format:
     toc: true
 ---
 
-### Reducing Dependence on Scarce Resources
+#### Use and Value Renewable Resources and Services 
 
-Of course this principle focuses on fossil fuels and discourages our dependence on non renewable resources, but I’ve really enjoyed thinking about this in terms of renewability of what is available in my life. While I could do something like running a marathon, that task would not be renewable for me. I’d be in a lot of pain afterwards. It would take me a lot more resources to run a marathon than someone who loves running and has learned how to run long distances.
+#### *"Make the best use of nature’s abundance to reduce our consumptive behaviour and dependence on non-renewable resources."*
 
-When we consider ourselves as resources, I find it fascinating to think about what we have and do that is renewable for us — just because we slept. While I’m not a runner, I have skills as someone who likes to make things such as knitting sweaters or cooking up jam. 
+## 🐴 About the Principle
 
-We might also consider the environmental resources that are renewable in our lives. For instance, as someone who lives in the pacific northwest, I have access to quite a lot of rain, ferns and pine needles. 
+This principle encourages us to reduce our reliance on non-renewable resources and instead focus on what is abundant and renewable in our lives—whether it’s from the natural world or within ourselves.
+
+When we think about renewability in personal terms, it’s helpful to consider the activities or resources that restore us naturally without excessive strain. For instance, I may not be someone who can easily sustain high-intensity physical activities like triathlons, but I thrive when engaging in creative, tactile activities like knitting sweaters or cooking jam. These pursuits leave me feeling energized and fulfilled rather than drained.
+
+In environmental terms, it’s about recognizing the renewable resources available in our surroundings and using them thoughtfully. For example, living in the Pacific Northwest, I have access to abundant rain, thriving ferns, and a wealth of pine needles. These natural resources can inspire sustainable practices like collecting rainwater, using natural mulch, or foraging for crafts and projects.
+
+This principle asks us to evaluate what is naturally replenishable in our lives—both internally and externally—and to lean into those resources to create systems that are not just sustainable but regenerative. It’s about finding ways to
+
+## Resources in Your Life
 
 -   What skills do I have in abundance? What am I already good at?
 
@@ -21,4 +29,30 @@ We might also consider the environmental resources that are renewable in our liv
 
 -   What emotional or spiritual gifts are renewable for me?
 
+## Resources in Your Community
+
 -   What in the natural world is abundant where I live? Is this resource renewable?
+
+    -   What might I do to appreciate and value these resources more?
+
+-   Where is my community gathering to share renewable resources with one another?
+
+    -   Is there a library or tool library nearby?
+
+    -   Where are the community gardens?
+
+-   What cultural traditions exist in my family or my community? How might I learn more?
+
+## Examples in the Natural World 
+
+-   **Soil** - Soil is quite renewable as it can be replenished and built up with microbes and compost
+
+-   **Rainwater Harvesting -** We can collect rain and use it to water plants or for household use.
+
+## Integrating this Principle
+
+-   Consider the places in your community where there is already abundance and work with what is. What do you have a lot of and how can you make use of it?
+
+## Resources for Further Exploration
+
+-   [Permaculture Principles.com - Principle 5](https://permacultureprinciples.com/permaculture-principles/_5/)
