@@ -5,30 +5,50 @@ format:
     toc: true
 ---
 
+#### Integrate Rather than Segregate
+
+#### *"By putting the right things in the right place, relationships develop between those things and they work together to support each other."*
+
 ## 💮 About the Principle
 
-### Capitalize on the way that things work together
+In permaculture, success is not just about an individual plant but the relationships it forms with the plants and environment around it. A skilled practitioner considers how each element interacts with others—what supports its growth and how it contributes in return. For example, a plant might flourish when paired with a companion plant that repels pests or enriches the soil. The question is not just *what* to plant, but *where* and *with what*.
 
-A permaculture practitioner would look at more than an individual plant, but they'd try to understand it in relationship to the other plants around it and how they work best together. They'd try to understand the whole as more than the sum of its parts. 
+The same question applies to our own lives: What do we need to be around to flourish? What kinds of relationships and systems enable us to thrive? When we step back and view ourselves as part of a larger system, we can begin to understand the connections that sustain us.
 
-We’re social creatures. We exist in community with one another and with our society. This principle asks us to look at our relationships and the connections we could build.
+As social creatures, humans are inherently interconnected, yet modern life often leaves us feeling isolated, disconnected, or even at odds with one another. This principle encourages us to reflect on our relationships and communities:
 
--   Where can I offer the excesses and abundance I have to those who need it? Where can others offer me their excess and abundance where I need it?
+-   How do we build meaningful connections?
 
--   What collaborations might I create or join?
+-   How can we integrate ourselves into supportive systems, fostering collaboration and mutual growth?
 
--   Are there other groups that could benefit from a relationship with me and my life?
+Ultimately, this principle invites us to see relationships not as isolated or transactional but as part of an integrated whole where we support one another and thrive together.
 
--   Who or what else is doing something that is similar to the things I do? Who else has the same problems I do?
+## Integration in Your Life and your Community
 
-## 
+-   Where can I share the abundance or resources I have with those who need them? Where can I seek support or abundance from others to meet my own needs?
 
-## Integration in Your Life
+<!-- -->
 
-## Integration in Your Community
+-   What opportunities for collaboration exist around me? How can I create or join partnerships that benefit all involved?
 
-## Examples in the Natural World 
+-   Are there groups or individuals who could benefit from building a relationship with me? How might I enrich their work or lives, and how might they enrich mine?
+
+-   Who else is doing work similar to mine, or facing challenges I also encounter? How can I connect with them to share insights, ideas, or solutions?
+
+-   How do I currently connect with my community? What does my community need, and how might I play a meaningful role in meeting those needs?
+
+## Examples in the Natural World
+
+-   **Three Sisters -** We can see integration in the way that some native communities planted corn, squash and beans together. The corn gives a structure for the beans to climb, the beans fix nitrogen into the soil and the squash spreads on the ground to mulch the area.
+
+-   **Mycorrhizal networks -** Scientists are only now learning how interconnected the fungal networks are with the plant roots in the soil. These connections distribute nutrients, information and water.
+
+-   **Cleaner fish** - Some fish eat parasites off of marine animals like sharks and sea turtles. The fish get food, and the larger animals get the health benefits of less parasites.
 
 ## Integrating this Principle
 
+-   Consider where might mutual support and an interdependent network support and sustain you. Brainstorm ways to connect to others and to share resources, ideas, connection and community.
+
 ## Resources for Further Exploration
+
+-   [PermaculturePrinciples.com - Principle 8](https://permacultureprinciples.com/permaculture-principles/_8/)

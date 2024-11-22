@@ -2,18 +2,18 @@
 title: "About"
 ---
 
-## Author 
+## Author
 
 Hi! I'm [Beth Duckles](https://bethduckles.com/) and I wrote this. I'm a researcher, writer, social scientist and community builder.
 
-## Contributions 
+Much like a garden, this document is meant to be iterative, evolving and open. I intend this to be a resource which will grow, expand and evolve. If you can use this material to better inform your life and the well being of your community, I invite you to do so. Please share with anyone who might appreciate it!
 
-I welcome feedback, comments, suggestions, contributions, links, ideas and resources. Please email me (beth\@duckles.com) or send a PR with your thoughts.
+## Contributions
+
+I welcome feedback, comments, suggestions, contributions, links, ideas and resources. You can use [this form to submit feedback](https://forms.gle/ra9d3j37Hbfup3H6A) or you can email me (beth\@duckles.com).
 
 If I use a contribution you offer, your name will be listed on this page as a contributor. If you don't want your name used, please tell me.
 
-## This Resource
+## License
 
-Much like a garden, this document is meant to be iterative, evolving and open. I intend this to be a resource which will grow, expand and evolve. If you can use this material to better inform your life and the well being of your community, I invite you to do so. Please share with anyone who might appreciate it!
-
-I've published this as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) this means that you are free to share and adapt this material as long as you give appropriate credit, provide a link to the license and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests that the licensor endorses you or your use.
+I've published this as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) this means that you are free to share and adapt this material as long as you give appropriate credit, provide a link to the license and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests that I endorse you or your use.

@@ -5,36 +5,56 @@ format:
     toc: true
 ---
 
+#### Use Small and Slow Solutions
+
+#### *"Small and slow systems are easier to maintain than big ones, making better use of local resources and producing more sustainable outcomes."*
+
 ## 🐌 About the Principle
 
-### Use local resources and create sustainable options.
+One of my favorite Aikido teachers, the late [Wendy Palmer Sensei](https://leadershipembodiment.com/about-us/), often spoke about our society's complicated relationship with small, incremental changes. She pointed out that we might object loudly to a 2% tax increase, yet dismiss a 2% improvement in compassion or mindfulness as insignificant.
 
-I heard a teacher talk once about how we have a complicated attitude towards small incremental changes in our lives. On the one hand, we would scream and yell if we were asked to pay 2% more taxes each year. Yet we think that it’s not much change at all if we manage to be 2% more compassionate, or 2% more thoughtful about money.
+This principle invites us to rethink that mindset. Instead of rushing to create big, sweeping changes, it asks us to consider the power of small, deliberate shifts. These smaller changes can lead to profound and lasting improvements in our lives.
 
-Instead of rushing to create lots of change, this principle asks us to consider what small shifts will create a better life for ourselves. 
+This idea runs counter to the dominant culture in much of the Western world, which celebrates dramatic transformations: losing 100 pounds, doubling profits, or achieving overnight success. I would suggest that those changes are often unsustainable and short-lived. Small changes—integrated gradually—are easier to maintain and more likely to become permanent parts of our lives.
 
-It's important to be aware that this principle is quite counter to the dominant western culture which celebrates big sweeping changes (lost 100 pounds, 50% increase in fourth quarter profits). 
-
-Yet small changes are so much easier to sustain than the big sweeping changes. We’re able to build them into our lives and they actually last.
+This principle reminds us that sustainable progress doesn’t have to be flashy. It’s found in small steps, repeated over time, that create meaningful and lasting transformation.
 
 ## Slow Solutions in Your Life
 
--   How can we find the smallest possible solution to create change? How can we take small, sustainable shifts towards the things that matter most to us?
+-   What small, repeatable action could I take today that would build into a meaningful change over time?
 
--   Where can I do something minor such as moving a piece of furniture, or adjusting where a tool is stored that would make my life easier?
+-   What is the smallest possible solution that could create real change? What small, sustainable shift would help me move toward what matters most to me?
 
--   Where would a slow change be easier to accept than a fast one?
+-   What is one simple action I can take right now—like rearranging furniture, adjusting where a tool is stored, or clearing out a space—that would make my life easier?
 
--   Where would patient attention be beneficial to the people in my life?
+-   Where in my life would a slow, gradual change be easier to accept and sustain than a fast one?
 
--   What would I like 2% more of in my life?
+-   Where could patient attention benefit the people in my life?
 
-## 
+-   What would I like 2% more of in my life—whether it's connection, peace, energy, or joy?
+
+------------------------------------------------------------------------
 
 ## Slow Solutions in Your Community
 
-## Examples in the Natural World 
+-   Is our community growing sustainably, or are we overextending our resources in ways that might lead to instability?
+
+<!-- -->
+
+-   What limits or boundaries should we respect to ensure our community thrives for future generations?
+
+-   How can we balance growth—whether economic, population, or development—with preserving the character, health, and well-being of our community?
+
+-   Where in our community would a slow, patient approach to problem-solving be more effective than rushing to find quick fixes?
+
+-   What traditions, systems, or practices already exist in our community that we can build upon to create sustainable growth?
+
+## Examples in Nature 
+
+-   **Tree Growth** -
 
 ## Integrating this Principle
 
 ## Resources for Further Exploration
+
+-   [PermaculturePrinciples.com - Principle 9](https://permacultureprinciples.com/permaculture-principles/_9/)

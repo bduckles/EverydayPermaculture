@@ -1,13 +1,13 @@
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
 ---
 title: "10: Use and Value Diversity"
 format:
   html:
     toc: true
 ---
+
+#### Use and Value Diversity
+
+#### *"Diversity reduces vulnerability to a variety of threats and takes advantage of the unique nature of the environment in which it resides."*
 
 ## 🐦 About the Principle
 
@@ -27,8 +27,10 @@ In our lives, we may wish to spend some time considering where we are spending t
 
 ## Diversity in Your Community
 
-## Examples in the Natural World 
+## Examples in the Natural World
 
 ## Integrating this Principle
 
 ## Resources for Further Exploration
+
+-   [PermaculturePrinciples.com - Principle 10](https://permacultureprinciples.com/permaculture-principles/_10/)

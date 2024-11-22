@@ -5,15 +5,21 @@ format:
     toc: true
 ---
 
+#### Use Edges and Value the Marginal
+
+#### *"The interface between things is where the most interesting events take place. These are often the most valuable, diverse and productive elements in the system."*
+
 ## 🏔️ About the Principle
 
-This principle is about the intersections and places in your life where things already shift. In a garden, this would be the places where one plant is next to a path or where the fence between your property and someone else’s. Those are the places which are fertile for something different to be created if you pay attention.
-
-## Valuing the Marginal in Your Life
+This principle is about the intersections and places in your life where things already shift. In a garden, this would be the places where one plant is next to a path or where the fence between your property and someone else’s. Those are the places which are fertile for something different to be created if you pay attention.\
+\
+What's interesting is that we know from biology that the edge systems are some of the most diverse and productive areas, where the connections are and there is a shift from one thing to another.
 
 In our lives, times where we’re between things or where what we're doing gets put aside. Consider if you bicycle or drive to work, this time where you are not in any particular place, is an in between time. 
 
 We might also consider where in our society we are marginalizing people and experiences or perhaps even marginalizing ourselves. Consider one’s political preferences, place of origin, sexuality, gender identity, work experience, money, race/ethnicity, physical ability, age, attractiveness, skills and more. What does it mean to live in a community where listen to some people but not others?
+
+## Valuing the Marginal in Your Life
 
 -   What are the edges in my life that feel most sidelined or neglected?
 
@@ -23,14 +29,24 @@ We might also consider where in our society we are marginalizing people and expe
 
 -   Where am I marginalized? What parts of my identity have I put aside because they are not valued?
 
--   
+-   What are the edges of your comfort zone? Where do you not go that might be beneficial for you?
 
 ## Valuing the Marginal in Your Community
 
+-   Are we paying attention to the "edges" of our community, such as marginalized groups or underutilized spaces?
+
+<!-- -->
+
+-   How can we better support people and places that exist on the periphery?
+
+-   What opportunities might arise from blending different groups, ideas, or resources?
+
 -   When do I interact with people who have been in some way marginalized? What does it mean if I do or do not interact with people who are marginalized?
 
-## Examples in the Natural World 
+## Examples in the Natural World
 
 ## Integrating this Principle
 
 ## Resources for Further Exploration
+
+-   [PermaculturePrinciples.com - Principle 11](https://permacultureprinciples.com/permaculture-principles/_11/)
