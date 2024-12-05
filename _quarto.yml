@@ -7,7 +7,7 @@ project:
 #  email: "beth@duckles.com"
 
 website:
-  title: "Permaculture Principles in Everyday Life"
+  title: "Everyday Permaculture"
   navbar:
     left:
       - href: index.qmd
