@@ -2,16 +2,14 @@ project:
   type: website
   output-dir: docs
 
-# author:
-#  name: "Beth M. Duckles"
-#  email: "beth@duckles.com"
-
 website:
   title: "Everyday Permaculture"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: bookcover.qmd
+        text: Resource Home
       - href: about.qmd
         text: About
   body-footer: |
@@ -54,9 +52,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-    sidebar: true  # Explicitly enable sidebar layout here
+    sidebar: true
     title-block:
-      author: false  # Add this line to suppress author in header
+      author: false
 
 editor: visual
 
