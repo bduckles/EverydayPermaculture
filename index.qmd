@@ -1,12 +1,13 @@
 ---
-title: "Living with Nature"
+title: "Everyday Flourishing"
 format: html
 sidebar: false     # Hides the sidebar on this page
 toc: false         # Hides the table of contents
 navbar: false      # Hides the navbar
 ---
 
-## 🌿 Ecological Thinking for Everyday Life
+
+## 🌿 Rethinking Daily Life with Ecological Principles
 
 In a world that feels increasingly complex, finding balance and clarity can feel like a challenge. What if there was a way to design your life with the same care and intention found in nature's ecosystems?
 
@@ -14,11 +15,13 @@ Ecological thinking offers a framework for creating systems that work for you—
 
 This open resource is an invitation to explore these ideas and apply them in practical, meaningful ways. Together, we’ll discover how thoughtful, nature-inspired design can help you navigate life’s complexities with creativity and intention.
 
-## 📖 Explore the Resource
+<!-- Resource button for the Everyday Flourishing Guide -->
 
--   [Go to the Resource](./bookcover.qmd)
+::: {style="text-align: center; margin-top: 20px;"}
+<a href="./bookcover.html" style="text-decoration: none;"> <button style="background-color: #0073e6; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> Everyday Flourishing Guide </button> </a>
+:::
 
-### **🐚 What This Is**
+### **🐚 What This Resource Is**
 
 This is a resource for rethinking challenges and opportunities in everyday life through the lens of permaculture principles.
 
@@ -36,9 +39,11 @@ In the resource, we walk through each permaculture principle to ask ourselves be
 
 -   **Creatively Use and Respond to Change**: Turn challenges into opportunities with flexibility and resilience.
 
-## 🌾 **Experiential Online Workshops**
+Please take a look at the materials and let me know your thoughts. I'd love to hear if it is useful for you or if you have any contributions to offer.
 
-In 2025, I’ll be hosting a series of collaborative workshops to explore permaculture principles and how they might relate to our daily life —one principle each month.
+## 🌾 **2025 Online Workshops**
+
+In 2025, I’ll be hosting a series of collaborative workshops to explore these principles and how they might relate to our daily life. We will work through one principle each month.
 
 These workshops are:
 
@@ -52,7 +57,13 @@ Each month, we’ll focus on one of the 12 permaculture principles, offering spa
 
 Participants will have the chance to contribute their own ideas and resources, making this an engaging and exploratory process.
 
-### **Who It’s For** 
+<!-- Register Now button -->
+
+::: {style="text-align: center; margin-top: 20px;"}
+<a href="https://forms.gle/9FvHQkLwSMPVudMr7" target="_blank" style="text-decoration: none;"> <button style="background-color: #28a745; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> Register Now </button> </a>
+:::
+
+### 👥 **Who It’s For**
 
 This series of experiential online workshops is designed for anyone who is curious about applying ecological principles to their everyday life. Together we'll seek ways to navigate life's complexities with creativity, balance, and connection via inspiration from the natural world.
 
@@ -64,14 +75,59 @@ Who might be interested?
 
 -   **Anyone feeling stuck** and ready to explore new frameworks for personal growth and balance.
 
-[ADD LINK TO REGISTER XXX](https://your-google-form-link)
-
 ## **How to Join**
 
-Workshops are **pay-what-you-can**, with a suggested contribution of \$10–\$20 per session. You’re welcome to:
-
--   Pay for the entire year upfront.
-
--   Contribute month-by-month, at the time of each session.
+Workshops are **pay-what-you-can**, with a suggested contribution of \$5–\$20 per session. You can register and either pay for the entire year upfront or contribute month-by-month, when you attend a session.
 
 No one will be turned away for lack of funds.
+
+<!-- Register Now button -->
+
+::: {style="text-align: center; margin-top: 20px;"}
+<a href="https://forms.gle/9FvHQkLwSMPVudMr7" target="_blank" style="text-decoration: none;"> <button style="background-color: #28a745; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> Register Now </button> </a>
+:::
+
+## ❓**FAQ**
+
+-   **Will the workshops be recorded?**
+
+I’ll provide a short recorded explanation of each principle and share written materials in the monthly emails for everyone registered. The workshops are designed for interaction, including discussions and solo time for personal reflection, so they won’t be recorded to maintain a comfortable and open environment.
+
+-   **I don't know if I can make it but I really want to hear more.**
+
+If you’re interested but unsure about your availability, I encourage you to register anyway! This way, you’ll receive the email invitations for each workshop and stay in the loop.
+
+If there’s enough interest, I may consider adding an additional day or time.
+
+-   **What kind of experience will this be?**
+
+The workshops will take place on Zoom, with a shared Google document to collect and exchange resources during the session. At the start of each workshop, I’ll share a code of conduct and a few guiding principles to set the tone for our time together.
+
+I’ll introduce content inspired by the Everyday Flourishing resource, and we’ll engage in activities to explore how these ideas apply to our daily lives. I encourage you to bring along a journal or use a notes app to capture thoughts and reflections just for yourself. This will be a space to pause, reflect, and engage with the material in a way that feels meaningful to you.
+
+We’ll also have opportunities to connect and learn from one another. I approach these workshops with a spirit of co-creation—recognizing that we’re all here to grow, share, and learn together. My goal is to create a welcoming, supportive environment where you can explore what resonates most with you.
+
+## 📅 Calendar
+
+Workshops will be held on the second Monday of the month at Noon Pacific Standard Time and will run for an hour. If there is enough interest, we will run another time slot each month - likely on a weekend or evening.
+
+-   Observe and Interact - January 13
+-   Catch and Store Energy - February 10
+-   Obtain a Yield - March 10
+-   Self Regulation and Feedback - April 14
+-   Renewable Resources - May 12
+-   Produce No Waste - June 9
+-   Design from Patterns to Details - July 14
+-   Integrate Rather than Segregate - August 11
+-   Small Slow Solutions - September 15
+-   Use and Value Diversity - October 13
+-   Use Edges and Value the Marginal - November 10
+-   Creatively Use and Respond to Change - December 8
+
+## Pricing
+
+```{=html}
+<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+<stripe-pricing-table pricing-table-id="prctbl_1QXrX5CKG7rrpuc4wOMDJssi"
+publishable-key="pk_live_HwbPOl8dcvSnYjmpT5EL7Z0B"> </stripe-pricing-table>
+```

@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: bookcover.qmd
-        text: Resource Home
+        text: Resource
       - href: about.qmd
         text: About
   body-footer: |
@@ -55,6 +55,7 @@ format:
     sidebar: true
     title-block:
       author: false
+    embed-resources: true
 
 editor: visual
 
