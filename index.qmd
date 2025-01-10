@@ -15,15 +15,15 @@ Ecological thinking offers a framework for creating systems that work for you—
 
 This open resource is an invitation to explore these ideas and apply them in practical, meaningful ways. Together, we’ll discover how thoughtful, nature-inspired design can help you navigate life’s complexities with creativity and intention.
 
-<!-- Resource button for the Everyday Flourishing Guide -->
+<!-- Resource button for the Everyday Flourishing -->
 
 ::: {style="text-align: center; margin-top: 20px;"}
-<a href="./bookcover.html" style="text-decoration: none;"> <button style="background-color: #0073e6; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> Everyday Flourishing Guide </button> </a>
+<a href="./bookcover.html" style="text-decoration: none;"> <button style="background-color: #0073e6; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> Everyday Flourishing </button> </a>
 :::
 
 ### **🐚 What This Resource Is**
 
-This is a resource for rethinking challenges and opportunities in everyday life through the lens of permaculture principles.
+This is a resource for rethinking challenges and opportunities in everyday life through the lens of ecologial principles.
 
 -   **Observe** to uncover patterns in your life.
 
@@ -31,7 +31,7 @@ This is a resource for rethinking challenges and opportunities in everyday life 
 
 -   Explore how valuing **diversity and small, thoughtful solutions** can help you navigate complexity with clarity.
 
-In the resource, we walk through each permaculture principle to ask ourselves better questions about how might live a more engaged and integrated life. For example:
+The resource walks through each permaculture principle to ask ourselves better questions about how might live a more engaged and integrated life. For example:
 
 -   **Design from Patterns to Details**: Start with the big picture and refine your plan as you go.
 
@@ -39,7 +39,7 @@ In the resource, we walk through each permaculture principle to ask ourselves be
 
 -   **Creatively Use and Respond to Change**: Turn challenges into opportunities with flexibility and resilience.
 
-Please take a look at the materials and let me know your thoughts. I'd love to hear if it is useful for you or if you have any contributions to offer.
+This resource is a work in progress and will be updated and shifted as we go. If you have suggestions, links or other resources to share, we'd love to include them. 
 
 ## 🌾 **2025 Online Workshops**
 
@@ -75,18 +75,6 @@ Who might be interested?
 
 -   **Anyone feeling stuck** and ready to explore new frameworks for personal growth and balance.
 
-## **How to Join**
-
-Workshops are **pay-what-you-can**, with a suggested contribution of \$5–\$20 per session. You can register and either pay for the entire year upfront or contribute month-by-month, when you attend a session.
-
-No one will be turned away for lack of funds.
-
-<!-- Register Now button -->
-
-::: {style="text-align: center; margin-top: 20px;"}
-<a href="https://forms.gle/9FvHQkLwSMPVudMr7" target="_blank" style="text-decoration: none;"> <button style="background-color: #28a745; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> Register Now </button> </a>
-:::
-
 ## ❓**FAQ**
 
 -   **Will the workshops be recorded?**
@@ -105,13 +93,21 @@ The workshops will take place on Zoom, with a shared Google document to collect 
 
 I’ll introduce content inspired by the Everyday Flourishing resource, and we’ll engage in activities to explore how these ideas apply to our daily lives. I encourage you to bring along a journal or use a notes app to capture thoughts and reflections just for yourself. This will be a space to pause, reflect, and engage with the material in a way that feels meaningful to you.
 
-We’ll also have opportunities to connect and learn from one another. I approach these workshops with a spirit of co-creation—recognizing that we’re all here to grow, share, and learn together. My goal is to create a welcoming, supportive environment where you can explore what resonates most with you.
+We’ll also have opportunities to connect and learn from one another. I approach these workshops with a spirit of co-creation—recognizing that we’re all here to grow, share, and learn together. You can explore what resonates most with you and leave what doesn't work for you. Everything is by invitation. 
+
+-   **Who is leading this?**
+
+Hi! I'm Beth Duckles. I'm a social scientist, researcher, writer and consultant with an interest in sustainability and ecological thinking. 
+
+You can learn more about me on [my website](https://bethduckles.com/) or my consulting work with [Organizational Mycology](https://orgmycology.com/).  
+
+
 
 ## 📅 Calendar
 
-Workshops will be held on the second Monday of the month at Noon Pacific Standard Time and will run for an hour. If there is enough interest, we will run another time slot each month - likely on a weekend or evening.
+Workshops will be held on the second Monday of the month* at Noon Pacific Standard Time and will run for an hour (except for January). If there is enough interest, we will run another time slot each month - likely on a weekend or evening.
 
--   Observe and Interact - January 13
+-   Observe and Interact - January 20 (*this is the one exception to being on the 2nd of the month)
 -   Catch and Store Energy - February 10
 -   Obtain a Yield - March 10
 -   Self Regulation and Feedback - April 14
@@ -124,7 +120,20 @@ Workshops will be held on the second Monday of the month at Noon Pacific Standar
 -   Use Edges and Value the Marginal - November 10
 -   Creatively Use and Respond to Change - December 8
 
-## Pricing
+## **How to Join**
+
+Workshops are **pay-what-you-can**, with a suggested contribution of \$5–\$20 per session. You can register and either pay for the entire year upfront or contribute month-by-month, when you attend a session. 
+
+If you'd like to pay for the full year, the links are below. For those who would like to contribute month-by-month, when you attend a session there will be a way for you to do so then. 
+
+No one will be turned away for lack of funds.
+
+<!-- Register Now button -->
+
+::: {style="text-align: center; margin-top: 20px;"}
+<a href="https://forms.gle/9FvHQkLwSMPVudMr7" target="_blank" style="text-decoration: none;"> <button style="background-color: #28a745; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> Register Now </button> </a>
+:::
+ 
 
 ```{=html}
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
