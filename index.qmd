@@ -43,7 +43,7 @@ This resource is a work in progress and will be updated and shifted as we go. If
 
 ## 🌾 **2025 Online Workshops**
 
-In 2025, I’ll be hosting a series of collaborative workshops to explore these principles and how they might relate to our daily life. We will work through one principle each month.
+In 2025, I have been hosting a series of collaborative workshops to explore these principles and how they might relate to our daily life. We work through one principle each month.
 
 These workshops are:
 
@@ -57,11 +57,6 @@ Each month, we’ll focus on one of the 12 permaculture principles, offering spa
 
 Participants will have the chance to contribute their own ideas and resources, making this an engaging and exploratory process.
 
-<!-- Register Now button -->
-
-::: {style="text-align: center; margin-top: 20px;"}
-<a href="https://forms.gle/9FvHQkLwSMPVudMr7" target="_blank" style="text-decoration: none;"> <button style="background-color: #28a745; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> Register Now </button> </a>
-:::
 
 ### 👥 **Who It’s For**
 
@@ -81,7 +76,7 @@ Who might be interested?
 
 I’ll provide a short explanation of each principle and share written materials in the monthly emails for everyone registered. The workshops are designed for interaction, including discussions and solo time for personal reflection, so they won’t be recorded to maintain a comfortable and open environment.
 
--   **I don't know if I can make it but I really want to hear more.**
+-   **I don't know if I can make it, but I really want to hear more.**
 
 If you’re interested but unsure about your availability, I encourage you to register. This way, you’ll receive the email invitations for each workshop and stay in the loop.
 
@@ -122,21 +117,12 @@ Workshops will be held on the second Monday of the month* at Noon Pacific Standa
 
 ## **How to Join**
 
-Workshops are **pay-what-you-can**, with a suggested contribution of \$5–\$20 per session. You can register and either pay for the entire year upfront or contribute month-by-month, when you attend a session. 
+Workshops are **pay-what-you-can**, with a suggested contribution of \$5–\$20 per session. No one turned away for lack of funds.
 
-If you'd like to pay for the full year, the links are below. For those who would like to contribute month-by-month, there will be a way for you to do so when you attend a session. 
+The sign up link for each of the upcoming workshops is below:
 
-No one turned away for lack of funds.
+-   [Use and Value Diversity - October 13](https://us02web.zoom.us/meeting/register/IO--cQDFQIGrTYuCkEYRxQ)
+-   [Use Edges and Value the Marginal - November 10](https://us02web.zoom.us/meeting/register/iGSYviS3Sj2gkPBQ-U9aQw)
+-   [Creatively Use and Respond to Change - December 8](https://us02web.zoom.us/meeting/register/nOwEcdAgS8SZb1CY-5O7TQ)
 
-<!-- Register Now button -->
 
-::: {style="text-align: center; margin-top: 20px;"}
-<a href="https://forms.gle/9FvHQkLwSMPVudMr7" target="_blank" style="text-decoration: none;"> <button style="background-color: #28a745; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> Register Now </button> </a>
-:::
- 
-
-```{=html}
-<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-<stripe-pricing-table pricing-table-id="prctbl_1QXrX5CKG7rrpuc4wOMDJssi"
-publishable-key="pk_live_HwbPOl8dcvSnYjmpT5EL7Z0B"> </stripe-pricing-table>
-```
